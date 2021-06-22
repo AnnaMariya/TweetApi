@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TweetApp", "TweetApp.csproj", "{D6981B88-20F2-40D4-A116-CC852DEB055E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctioTweet", "..\FunctioTweet\FunctioTweet.csproj", "{974BD320-2E65-4835-AC20-0C8259E830E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6981B88-20F2-40D4-A116-CC852DEB055E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6981B88-20F2-40D4-A116-CC852DEB055E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6981B88-20F2-40D4-A116-CC852DEB055E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6981B88-20F2-40D4-A116-CC852DEB055E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{974BD320-2E65-4835-AC20-0C8259E830E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974BD320-2E65-4835-AC20-0C8259E830E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974BD320-2E65-4835-AC20-0C8259E830E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974BD320-2E65-4835-AC20-0C8259E830E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F0137B3-BD6F-47AE-8498-832F1ECD2DF4}
+	EndGlobalSection
+EndGlobal

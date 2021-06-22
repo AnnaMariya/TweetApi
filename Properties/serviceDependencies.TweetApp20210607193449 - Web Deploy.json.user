@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "redis1": {
+      "restored": true,
+      "restoreTime": "2021-06-07T14:29:04.5604326Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2021-06-07T14:11:10.581384Z"
+    },
+    "cosmosdb1": {
+      "restored": true,
+      "restoreTime": "2021-06-07T14:34:01.3316062Z"
+    }
+  },
+  "parameters": {
+    "redis1.resourceGroupName": {
+      "Name": "redis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "TweetApp20210607193449ResourceGroup"
+    },
+    "cosmosdb1.resourceGroupName": {
+      "Name": "cosmosdb1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "TweetApp20210607193449ResourceGroup"
+    },
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "cb564a47-96ef-4da5-ba2e-09e6addf7b5c"
+    },
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "TweetApp20210607193449ResourceGroup"
+    },
+    "cosmosdb1.subscriptionId": {
+      "Name": "cosmosdb1.subscriptionId",
+      "Type": "subscription",
+      "Value": "cb564a47-96ef-4da5-ba2e-09e6addf7b5c"
+    },
+    "redis1.subscriptionId": {
+      "Name": "redis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "cb564a47-96ef-4da5-ba2e-09e6addf7b5c"
+    }
+  }
+}
